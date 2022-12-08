@@ -417,7 +417,7 @@
       </Col>
       <Col class="is-center">
         <Button primary outline>
-          <a href="https://tg.me/xtonwallet">
+          <a href="https://t.me/xtonwallet">
             <Icon src={mdiSend} size="3" />
             Telegram
           </a>
