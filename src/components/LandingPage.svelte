@@ -145,7 +145,7 @@
 
     <div class="nav-center" id="mobileMenu">
       <a href="https://docs.xtonwallet.com">Documentation</a>
-      <a href="https://demo-page.xtonwallet.com">Web3 demo page</a>
+      <a href="https://demopage.xtonwallet.com">Web3 demo page</a>
       <a href="#features">Features</a>
       <a href="#services">Services</a>
       <a href="#subscribe">Subscribe</a>
@@ -439,11 +439,10 @@
 
       <div class="nav-center">
         <a href="https://docs.xtonwallet.com">Documentation</a>
-        <a href="https://demo-page.xtonwallet.com">Web3 demo page</a>
+        <a href="https://demopage.xtonwallet.com">Web3 demo page</a>
         <a href="#services">Services</a>
         <a href="#features">Features</a>
         <a href="#subscribe">Subscribe</a>
-        <a href="https://docs.xtonwallet.com/terms_and_conditions.html">Terms conditons</a>
         <a href="https://docs.xtonwallet.com/privacy.html">Privacy policy</a>
       </div>
 

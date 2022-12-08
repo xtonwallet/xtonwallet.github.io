@@ -34,7 +34,8 @@ const config = [{
     copy({
       targets: [
         { src: 'src/*.html', dest: 'dist/' },
-        { src: 'src/assets', dest: 'dist/' }
+        { src: 'src/assets', dest: 'dist/' },
+        { src: 'CNAME', dest: 'dist/' }
       ]
     }),
     commonjs(),
