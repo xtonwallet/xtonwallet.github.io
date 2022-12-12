@@ -26,7 +26,7 @@
     "/assets/img/screens/web3_DApp.png",
   ];
   const installations = [
-    { name: "chrome", url: "https://docs.xtonwallet.com/installation" },
+    { name: "chrome", url: "https://chrome.google.com/webstore/detail/xton-wallet/cjookpbkjnpkmknedggeecikaponcalb" },
     { name: "edge", url: "https://docs.xtonwallet.com/installation" },
     { name: "firefox", url: "https://docs.xtonwallet.com/installation" },
     { name: "safari", url: "https://docs.xtonwallet.com/installation" },

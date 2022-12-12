@@ -35,7 +35,8 @@ const config = [{
       targets: [
         { src: 'src/*.html', dest: 'dist/' },
         { src: 'src/assets', dest: 'dist/' },
-        { src: 'CNAME', dest: 'dist/' }
+        { src: 'CNAME', dest: 'dist/' },
+        { src: 'src/robots.txt', dest: 'dist/' }
       ]
     }),
     commonjs(),
