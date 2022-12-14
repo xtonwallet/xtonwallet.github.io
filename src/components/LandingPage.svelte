@@ -27,7 +27,7 @@
   ];
   const installations = [
     { name: "chrome", url: "https://chrome.google.com/webstore/detail/xton-wallet/cjookpbkjnpkmknedggeecikaponcalb" },
-    { name: "edge", url: "https://docs.xtonwallet.com/installation" },
+    { name: "edge", url: "https://microsoftedge.microsoft.com/addons/detail/xton-wallet/cgadeiniijaimpdmhfklcphfnglpkmll" },
     { name: "firefox", url: "https://docs.xtonwallet.com/installation" },
     { name: "safari", url: "https://docs.xtonwallet.com/installation" },
     { name: "opera", url: "https://docs.xtonwallet.com/installation" },
