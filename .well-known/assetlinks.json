@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.xtonwallet.mobile",
+      "sha256_cert_fingerprints":
+      ["97:F9:ED:18:FA:C1:54:9C:36:45:AD:67:13:55:7B:CE:28:48:2B:2D:DD:13:67:7B:E4:86:5A:AF:EA:6D:7F:58"]
+    }
+}]
