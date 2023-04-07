@@ -36,6 +36,7 @@ const config = [{
         { src: 'src/*.html', dest: 'dist/' },
         { src: 'src/assets', dest: 'dist/' },
         { src: 'CNAME', dest: 'dist/' },
+        { src: '_config.yml', dest: 'dist/' },
         { src: 'src/robots.txt', dest: 'dist/' },
         { src: 'src/.well-known', dest: 'dist/' }
       ]
